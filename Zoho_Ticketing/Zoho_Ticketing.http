@@ -1,0 +1,6 @@
+@Zoho_Ticketing_HostAddress = http://localhost:5116
+
+GET {{Zoho_Ticketing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
